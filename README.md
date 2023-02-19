@@ -1,5 +1,9 @@
 # MyPorfolio - Hacer un deploy
-#
+
+Este proyecto se generó con Firebase, HTML5, CSS3, JavaScript.
+
+## Procedimiento para subir la WebSite a la nube
+
 1- Loguearse en Firebase (firebase login)
 2- Autenticar cuenta de google
 3- Iniciar firebase (firebase init)
@@ -22,4 +26,22 @@
     Project Console: https://console.firebase.google.com/project/myporfolio-65b10/overview
     Hosting URL: https://myporfolio-65b10.web.app
 
+## Material de Consulta
+
 URL: https://www.youtube.com/watch?v=drvXMz75k5s
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
