@@ -41,6 +41,7 @@ Este proyecto se generó con Firebase, HTML5, CSS3, JavaScript.
 18- firebase deploy.
 
 19- Veremos las URL generadas con nuestro site.
+    
     Project Console: https://console.firebase.google.com/project/myporfolio-65b10/overview
     Hosting URL: https://myporfolio-65b10.web.app
 
