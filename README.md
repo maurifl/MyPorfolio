@@ -4,11 +4,11 @@ Este proyecto se generó con Firebase, HTML5, CSS3, JavaScript.
 
 ## Procedimiento para subir la WebSite a la nube
 
-1- Loguearse en Firebase (firebase login)
-2- Autenticar cuenta de google
-3- Iniciar firebase (firebase init)
-4- Are you ready to proceed? (Y)
-5- Seleccionar Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys (*)
+1- Loguearse en Firebase (firebase login).
+2- Autenticar cuenta de google.
+3- Iniciar firebase (firebase init).
+4- Are you ready to proceed? (Y).
+5- Seleccionar Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys (*).
 6- What do you want to use as your public directory? (public)
 7- Configure as a single-page app (rewrite all urls to /index.html)? (Yes)
 8- Set up automatic builds and deploys with GitHub? (Yes)
