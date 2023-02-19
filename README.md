@@ -1,5 +1,5 @@
-# MyPorfolio
-#Hacer un deploy
+# MyPorfolio - Hacer un deploy
+#
 1- Loguearse en Firebase (firebase login)
 2- Autenticar cuenta de google
 3- Iniciar firebase (firebase init)
